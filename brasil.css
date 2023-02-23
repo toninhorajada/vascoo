@@ -1,0 +1,9 @@
+body {
+    color: black;
+    background-color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+.cont{
+    padding: 0px 30px;
+}
